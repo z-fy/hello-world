@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+はじめまして　よろしくお願いします
